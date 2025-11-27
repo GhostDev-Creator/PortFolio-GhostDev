@@ -52,5 +52,5 @@ Nesta seção, você encontrará uma curadoria dos meus melhores projetos. Veja 
 
 Estou sempre aberto a novas conexões e desafios!
 
-* **Website:** [Entre em meu PortFolio](https://github.com/GhostDev-Creator/PortFolio-Ghost-Dev)
+* **Website:** [Entre em meu PortFolio](https://github.com/GhostDev-Creator/PortFolio-GhostDev)
 * **Email:** [Entre em contato por e-mail](mailto:joaoguilherme.sc@gmail.com)
